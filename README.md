@@ -2,43 +2,38 @@
 
 ![Event Banner](./assets/banner.png)
 
-# Title: [Insert Project Name]
+# Title: NewsSummarizer
 
 ---
 
 ### Team Members
-* **Member 1:** [Name / GitHub Link]
-* **Member 2:** [Name / GitHub Link]
+* **Member 1:Sreenandan2004 (Sreenandan S )
 
 ---
 
 ### Link to product walkthrough
-[Insert Link to Video (YouTube/Drive)]
+https://drive.google.com/drive/folders/1i_stvxPfKGvmxVvDrK1qNhkrVRGF5r8s?usp=sharing
 
 ---
 
 ### How it Works?
 
 #### 1. Explaining the working of project
-[Describe the logic here.]
+The project consists of a simple news summarizer powered by n8n. The Workflow fetches the Technology news using the NewsApi and feeds it to a LLM chain(Gemini 2.5) to generate a nice Summary. Then The summary is sent through a Telegram Bot where The Bot sends The latest Tech Summary at 8am in the morning Daily.
 
 #### 2. Embed video of project demo
-[Insert link to Video (Youtube/Drive)]
+https://drive.google.com/drive/folders/1i_stvxPfKGvmxVvDrK1qNhkrVRGF5r8s?usp=sharing
 
 ---
 
-### Libraries
-[Mention the Libraries/Tools Used.]
-
----
 
 ### How to configure
-[Explain How to configue.]
+Nalla Chodyam. adutha chodyam
 
 ---
 
 ### How to run
-[Explain How to run.]
+Press Execute to Run hehee
 
 ---
 
